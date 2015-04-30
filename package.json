@@ -1,0 +1,30 @@
+{
+  "name": "stats-mean",
+  "version": "1.0.0",
+  "description": "Calculate mean of data",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msn0/stats-mean.git"
+  },
+  "keywords": [
+    "mean",
+    "expected value",
+    "average",
+    "stats",
+    "statistics",
+    "analytics"
+  ],
+  "author": "Michał Jezierski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msn0/stats-mean/issues"
+  },
+  "homepage": "https://github.com/msn0/stats-mean",
+  "dependencies": {
+    "mocha": "^2.2.4"
+  }
+}
