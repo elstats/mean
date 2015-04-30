@@ -5,7 +5,7 @@
 ## Installation
 
 ```sh
-npm install stats-mean
+$ npm install stats-mean
 ```
 
 ## Usage
