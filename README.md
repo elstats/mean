@@ -13,9 +13,9 @@ npm install stats-mean
 ```js
 var mean = require('stats-mean');
 
-var data = [1, 10, 100, 45, -7, 0.9, -16];
+var data = [1, 10, 100, 45, -4, 0.9, -16];
 
-mean.calc(data); // → 19.128571429
+mean.calc(data); // → 19.5
 ```
 
 ### API
