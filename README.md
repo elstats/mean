@@ -1,17 +1,17 @@
-# Mean [![Build Status](https://travis-ci.org/msn0/stats-mean.svg?branch=master)](http://travis-ci.org/msn0/stats-mean)
+# Mean [![Build Status](https://travis-ci.org/elstats/mean.svg?branch=master)](http://travis-ci.org/elstats/mean)
 
 > Calculate mean of data.
 
 ## Installation
 
 ```sh
-$ npm install stats-mean
+$ npm install @elstats/mean
 ```
 
 ## Usage
 
 ```js
-var mean = require('stats-mean');
+var mean = require('@elstats/mean');
 
 var data = [1, 10, 100, 45, -4, 0.9, -16];
 

@@ -1,5 +1,5 @@
 {
-  "name": "stats-mean",
+  "name": "@elstats/mean",
   "version": "1.0.0",
   "description": "Calculate mean of data",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/msn0/stats-mean.git"
+    "url": "https://github.com/elstats/mean.git"
   },
   "keywords": [
     "mean",
@@ -21,9 +21,9 @@
   "author": "Michał Jezierski",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/msn0/stats-mean/issues"
+    "url": "https://github.com/elstats/mean/issues"
   },
-  "homepage": "https://github.com/msn0/stats-mean",
+  "homepage": "https://github.com/elstats/mean",
   "dependencies": {
     "mocha": "^2.2.4"
   }
