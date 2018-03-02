@@ -4,7 +4,7 @@
   "description": "Calculate mean of data",
   "main": "index.js",
   "scripts": {
-    "test": "ava --verbose"
+    "test": "ava --verbose && eslint --fix ."
   },
   "repository": {
     "type": "git",
